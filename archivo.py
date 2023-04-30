@@ -18,6 +18,7 @@ elif(x=1):
 #hola esta es otra prueba
 print("Cruel")
 
+<<<<<<< HEAD
 print("            ___")
 print("        ,-""   `-.              ")
 print("      ,'         `.           ")
@@ -38,3 +39,17 @@ print("  /             \\   ")
 print(" /               \\  ")
 print("/_________________\\ ")
 >>>>>>> refs/remotes/origin/main
+=======
+# Abre el archivo en modo lectura
+archivo = open("Dwight.txt", "r")
+
+# Lee el contenido del archivo
+contenido = archivo.read()
+
+# Imprime el contenido en consola
+print(contenido)
+
+# Cierra el archivo
+archivo.close()
+
+>>>>>>> dbbf4829bf89592792903206eb9e1333cea76bd8
