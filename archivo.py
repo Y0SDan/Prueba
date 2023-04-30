@@ -8,7 +8,7 @@ while(1):
 	
 if(x == 2):
 	print("que tal??")
-elif(x=1):
+elif(x==1):
 	print("esto es lo mas similar a un switch case")
 	
 
