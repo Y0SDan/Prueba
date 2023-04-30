@@ -1,6 +1,5 @@
 print("esta es mi prueba")
 print("Hola mundo")
-<<<<<<< HEAD
 print("que tal richi")
 print("Cruel")
 
@@ -12,13 +11,10 @@ if(x == 2):
 elif(x=1):
 	print("esto es lo mas similar a un switch case")
 	
-=======
 
 
 #hola esta es otra prueba
 print("Cruel")
-
-<<<<<<< HEAD
 print("            ___")
 print("        ,-""   `-.              ")
 print("      ,'         `.           ")
@@ -38,8 +34,6 @@ print("   /           \\    ")
 print("  /             \\   ")
 print(" /               \\  ")
 print("/_________________\\ ")
->>>>>>> refs/remotes/origin/main
-=======
 # Abre el archivo en modo lectura
 archivo = open("Dwight.txt", "r")
 
@@ -51,5 +45,3 @@ print(contenido)
 
 # Cierra el archivo
 archivo.close()
-
->>>>>>> dbbf4829bf89592792903206eb9e1333cea76bd8
